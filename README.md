@@ -1,17 +1,15 @@
-### Boas vindas ao meu perfil 🫀
+### Boas vindas ao meu perfil 💗
 
+Meu nome é Isabelle Batista 
 
+- Estou estudando no https://www.alura.com.br/
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
+### Você entrar em contato comigo 📬
 
-- 👋 Hi, I’m @ibatistac
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+00001125788811sp@al.educacao.sp.gov.br
 
-<!---
-ibatistac/ibatistac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+@ibatistac
+
+![]()https://tenor.com/pt-BR/view/corpse-bride-gif-27105149
