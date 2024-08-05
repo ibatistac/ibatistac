@@ -2,7 +2,7 @@
 
 Meu nome é Isabelle Batista 
 
-- Estou estudando no https://www.alura.com.br/
+- Estou estudando no [Alura](https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ Meu nome é Isabelle Batista
 
 @ibatistac
 
-![]()https://tenor.com/pt-BR/view/corpse-bride-gif-27105149
+![](https://tenor.com/pt-BR/view/lana-gif-8906528299282642413)
